@@ -1,2 +1,2 @@
 # JdStudy
-Study practices
+My Study practices
