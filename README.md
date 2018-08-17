@@ -1,0 +1,2 @@
+# JdStudy
+Study practices
